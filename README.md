@@ -11,6 +11,10 @@ This is the frontend for AkVideoTube, built using React and Vite. It provides a 
 - **React Router**: Declarative routing for React apps.
 - **Axios**: Promise-based HTTP client for API requests.
 
+## Live Visit 
+- **URL Link**: [See Here Link](https://ak-videotube.vercel.app/)
+- **Snapshots**: ![Image](https://raw.githubusercontent.com/akmroyal/Video-Tube-frontend/refs/heads/main/ak-videotube.vercel.app_.png)
+
 ## Project Structure
 
 The project is organized as follows:
