@@ -1,6 +1,6 @@
-# Ak-VideoTube Frontend
+# Ak-VideoTube | Clipio Frontend
 
-This is the frontend for AkVideoTube, built using React and Vite. It provides a modern, fast, and responsive user interface for interacting with the AkVideoTube platform.
+This is the frontend for AkVideoTube | Clipio, built using React and Vite. It provides a modern, fast, and responsive user interface for interacting with the Clipio platform.
 
 ## Features
 
